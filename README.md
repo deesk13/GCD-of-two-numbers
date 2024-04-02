@@ -3,6 +3,8 @@ NAME : DEVA DHARSHINI
 
 REGISTER NAME: 212223240026
 
+DEPARTMENT : AIML
+
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
